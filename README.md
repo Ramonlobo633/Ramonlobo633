@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramon Lobo</h1>
-<h3 align="justify">Computer Science student at Federal Unversity of Ceará (Universidade Federal do Ceará). Today, I am in a intership at Farmácias Pague Menos, working with RPA developer, using Python and many others technologies :), and with API development and maintenance for Business Process Management Suite. I want to learn from this reality, passing the turing test, expanding my universe and, when possible, swimming in data lakes.</h3>
+<h3 align="justify">Computer Science student at Federal Unversity of Ceará (Universidade Federal do Ceará). Today, I am in a Developer Analyst at Farmácias Pague Menos, working with RPA developer, using Python and many others technologies :), and with API development and maintenance for Business Process Management Suite. I want to learn from this reality, passing the turing test and expanding my universe.</h3>
 
 - 🔭 I’m currently working on [Farmácias Pague Menos](https://www.paguemenos.com.br/)
 
