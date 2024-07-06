@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Farmácias Pague Menos](https://www.paguemenos.com.br/)
 
-- 🌱 I’m currently learning **Deep Learning, RPA, Data Engineering, Cloud computing**
+- 🌱 I’m currently learning **Deep Learning, RPA, Data Engineering, Backend, Cloud computing**
 
 - 💬 Ask me about **Python, Machine Learning, RPA**
 
