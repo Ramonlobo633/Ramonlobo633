@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramon Lobo</h1>
-<h3 align="justify">Computer Science student at Federal Unversity of Ceará (Universidade Federal do Ceará). Today, I am in a Developer Analyst at Farmácias Pague Menos, working with RPA developer, using Python and many others technologies :), and with API development and maintenance for Business Process Management Suite. I want to learn from this reality, passing the turing test and expanding my universe.</h3>
+<h3 align="justify">Software engineer at Instituto Atlântico. Python lover, working on multiple projects, using Python and various other technologies :), with a strong focus on Backend Dev and IA solutions. I want to learn from this reality, passing the turing test and expanding my universe.</h3>
 
-- 🔭 I’m currently working on [Farmácias Pague Menos](https://www.paguemenos.com.br/)
+- 🔭 I’m currently working on [Instito Atlântico](https://www.atlantico.com.br/)
 
-- 🌱 I’m currently learning **Deep Learning, RPA, Data Engineering, Backend, Cloud computing**
+- 🌱 I’m currently learning **Deep Learning, Fullstack, Data Engineering, Cloud computing**
 
 - 💬 Ask me about **Python, Machine Learning, RPA**
 
