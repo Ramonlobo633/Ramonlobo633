@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramon Lobo</h1>
 <h3 align="justify">Software engineer at Instituto Atlântico. Python lover, working on multiple projects, using Python and various other technologies :), with a strong focus on Backend Dev and IA solutions. I want to learn from this reality, passing the turing test and expanding my universe.</h3>
 
-- 🔭 I’m currently working on [Instito Atlântico](https://www.atlantico.com.br/)
+- 🔭 I’m currently working on [Instituto Atlântico](https://www.atlantico.com.br/)
 
-- 🌱 I’m currently learning **Deep Learning, Fullstack, Data Engineering, Cloud computing**
+- 🌱 I’m currently learning **Deep Learning, Backend, AI Engineering, Cloud computing**
 
 - 💬 Ask me about **Python, Machine Learning, RPA**
 
